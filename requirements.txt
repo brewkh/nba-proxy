@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+pytz
+httpx
+# nba_api
+# beautifulsoup4
